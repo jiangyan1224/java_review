@@ -63,4 +63,19 @@ public class Merge_Two_Sorted_Lists {
 //    }
 
     //高赞答案2：迭代
+    //其实思路和我自己的做法类似，依次遍历两个链表，但是答案中，设置了一个类似头节点，后续链表的操作更简单，省去了一些判断操作
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2){
+        ListNode pre=new ListNode(-1);
+        ListNode prev=pre;
+        while (l1!=null&&l2!=null){
+            if(l1.val<=l2.val){
+                prev.next=l1;l1=l1.next;
+            }else{
+                prev.next=l2;l2=l2.next;
+            }
+            prev=prev.next;
+        }
+        prev.next=l1==null?l2:l1;
+        return pre.next;
+    }
 }

@@ -1,7 +1,9 @@
 package leetcode;
 public class Test {
     public static void main(String[] args){
-        ValidParentheses validParentheses =new ValidParentheses();
-        System.out.println(validParentheses.isValid("()"));
+//        Climbing_Stairs climbing_stairs=new Climbing_Stairs();
+//        int num=climbing_stairs.climbStairs(3);
+//        System.out.println(num);
     }
+
 }

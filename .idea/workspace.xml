@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0acabb4-d9f0-4024-98e0-1e957fee9434" name="Default Changelist" comment="" />
+    <list default="true" id="d0acabb4-d9f0-4024-98e0-1e957fee9434" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Leetcode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/Merge_Two_Sorted_Lists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/ValidParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Merge_Two_Sorted_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/leetcode/Merge_Two_Sorted_Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/leetcode/Test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +23,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QPwJ13bg3bbQRIbxyLdLZi982c" />
   <component name="PropertiesComponent">
@@ -63,10 +75,22 @@
       <workItem from="1567685476670" duration="1164000" />
       <workItem from="1567818674859" duration="6661000" />
       <workItem from="1567841195562" duration="8256000" />
+      <workItem from="1569158891567" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
