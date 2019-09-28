@@ -47,7 +47,7 @@ public class Merge_Two_Sorted_Lists {
 //    }
 
     //高赞答案1；递归：递归地定义在两个链表间的merge操作：
-    //l1.next=merge(l1.1,l2);或者l2.next=merge(l1,l2.1)
+    //l1.next=merge(l1.next,l2);或者l2.next=merge(l1,l2.next)
     //代码更加简洁，时间复杂度O(m+n)空间复杂度：因为要遍历m+n个链表节点，需要m+n个栈帧存储，所以空间复杂度为O(m+n)
 //    public ListNode mergeTwoLists(ListNode l1, ListNode l2){
 //      if (l1==null) return l2;
