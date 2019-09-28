@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0acabb4-d9f0-4024-98e0-1e957fee9434" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Leetcode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/Merge_Two_Sorted_Lists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/out/production/Leetcode/leetcode/ValidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Merge_Two_Sorted_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/leetcode/Merge_Two_Sorted_Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/leetcode/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0acabb4-d9f0-4024-98e0-1e957fee9434" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/JetBrains/jdk1.8.0_141" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Leetcode" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -76,6 +67,7 @@
       <workItem from="1567818674859" duration="6661000" />
       <workItem from="1567841195562" duration="8256000" />
       <workItem from="1569158891567" duration="34000" />
+      <workItem from="1569212869333" duration="84000" />
     </task>
     <servers />
   </component>
@@ -87,7 +79,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
