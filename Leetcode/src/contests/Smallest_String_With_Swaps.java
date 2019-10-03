@@ -48,6 +48,11 @@ public class Smallest_String_With_Swaps {
             //computeIfAbsent：如果key不存在或为空，执行后面的函数返回对象，
             // 并以这个函数第一个参数为key，后面那个为value作键值对存入map
             // https://www.cnblogs.com/inspirationBoom/p/9994932.html
+            //将v = map.get(a.getId())
+            //判断v是否为空，若不为空，return v
+            //若为空， 则使用新值newValue  = mappingFunction.apply(a.getId)
+            //map.put(a.getId, newValue)
+            //return newValue
             List<Character> characters=map.computeIfAbsent(head,(dummy)->new ArrayList<>());
             characters.add(s.charAt(i));
         }
