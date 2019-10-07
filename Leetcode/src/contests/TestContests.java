@@ -2,9 +2,9 @@ package contests;
 
 public class TestContests {
     public static void main(String[] args){
-        Unique_Number_of_Occurrences un=new Unique_Number_of_Occurrences();
-        int[] arr={1,2,2,1,1,3};
-        System.out.println(un.uniqueOccurrences(arr));
+        Get_Equal_Substrings_Within_Budget ge=new Get_Equal_Substrings_Within_Budget();
+        int answer=ge.equalSubstring("ujteygggjwxnfl" ,"nstsenrzttikoy",43);
+        System.out.println(answer);
     }
 
 }
