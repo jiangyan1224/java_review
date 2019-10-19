@@ -40,11 +40,15 @@ public class N_ary_Tree_Preorder_Traversal {
     //     }
     //     return list;
     // }
-    //还可以递归，10.19，还未完成
-//    public List<Integer> preorder(Node root){
-//        List<Integer> list=new ArrayList<>();
-//        if(root==null) return list;
-//        list.add(root.val);
-//        if()
-//    }
+    //还可以递归
+     public List<Integer> preorder(Node root){
+         List<Integer> list=new ArrayList<>();
+         prelist(root,list);
+         return list;
+     }
+     private void prelist(Node root,List<Integer> list){
+         if(root==null) return;
+         list.add(root.val);
+         for(Node node:root.children) prelist(node,list);
+     }
 }
